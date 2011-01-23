@@ -15,8 +15,12 @@ I wanted to make it easy to find things to photograph, and I figured that geotag
 == To do ==
 * Search result limit
 * Manual input of WGS84 lat/long (currently spherical mercator)
-* More percise search range
+* More percise search range (currently +/- lat long calculated by zoom level)
 * Format result page for printing
+* Query DBpedia in languages other than EN
+* Cache generated lists, with static maps?
+* Better navigation on search map--text search for place?
+* Reverse geo look up street addresses for results?
 
 == External sites  ==
 
