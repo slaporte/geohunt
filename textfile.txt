@@ -1,0 +1,217 @@
+lat	lon	title	description	icon	iconSize	iconOffset
+37.71070098876953	-122.4033966064453	:Sunnydale_Station 	"Sunnydale Station"@en
+37.71281814575195	-122.439453125	:Crocker-Amazon,_San_Francisco 	"Crocker-Amazon, San Francisco"@en
+37.71394729614258	-122.4782867431641	:Krouzian-Zekarian-Vasbouragan_Armenian_School 	"Krouzian-Zekarian-Vasbouragan Armenian School"@en
+37.71881866455078	-122.3974838256836	:Le_Conte_Station 	"Le Conte Station"@en
+37.71913146972656	-122.4406661987305	:Alemany_Boulevard 	"Alemany Boulevard"@en
+37.72148513793945	-122.3819427490234	:Phillip_&_Sala_Burton_High_School 	"Phillip & Sala Burton High School"@en
+37.72222137451172	-122.4488906860352	:Lick-Wilmerding_High_School 	"Lick-Wilmerding High School"@en
+37.72333145141602	-122.4797210693359	:San_Francisco_State_University 	"San Francisco State University"@en
+37.72333145141602	-122.3969421386719	:Paul_Avenue_%28Caltrain_station%29 	"Paul Avenue (Caltrain station)"@en
+37.72499847412109	-122.4449996948242	:Balboa_Park,_San_Francisco 	"Balboa Park, San Francisco"@en
+37.72555541992188	-122.4486083984375	:Rams_Stadium 	"Rams Stadium"@en
+37.72578811645508	-122.4445953369141	:Boxer_Stadium 	"Boxer Stadium"@en
+37.72722244262695	-122.474723815918	:Stonestown_Galleria_Station 	"Stonestown Galleria Station"@en
+37.72758483886719	-122.4582138061523	:Westwood_Park,_San_Francisco 	"Westwood Park, San Francisco"@en
+37.72777938842773	-122.4530563354492	:Archbishop_Riordan_High_School 	"Archbishop Riordan High School"@en
+37.72809982299805	-122.3917007446289	:Carroll_Station 	"Carroll Station"@en
+37.72809982299805	-122.3917007446289	:Williams_Station 	"Williams Station"@en
+37.72819900512695	-122.4770965576172	:Stonestown_Galleria 	"Stonestown Galleria"@en
+37.72999954223633	-122.4199981689453	:Rancho_Rincon_de_las_Salinas_y_Potrero_Viejo 	"Rancho Rincon de las Salinas y Potrero Viejo"@en
+37.73191452026367	-122.373893737793	:Harbor_Village_Resort 	"Harbor Village Resort"@en
+37.73229598999023	-122.3914947509766	:Revere/Shafter_Station 	"Revere/Shafter Station"@en
+37.73300170898438	-122.4570007324219	:Westwood_Highlands,_San_Francisco 	"Westwood Highlands, San Francisco"@en
+37.7348747253418	-122.4679870605469	:St._Francis_Wood,_San_Francisco 	"St. Francis Wood, San Francisco"@en
+37.7401008605957	-122.3878021240234	:Hudson/Innes_Station 	"Hudson/Innes Station"@en
+37.74280166625977	-122.3879013061523	:Evans_Station 	"Evans Station"@en
+37.74490356445312	-122.4498672485352	:San_Francisco_School_of_the_Arts 	"San Francisco School of the Arts"@en
+37.74510955810547	-122.4532928466797	:HerChurch 	"HerChurch"@en
+37.74555587768555	-122.3777770996094	:KSFO 	"KSFO"@en
+37.74728012084961	-122.4810333251953	:Abraham_Lincoln_High_School_%28San_Francisco,_California%29 	"Abraham Lincoln High School (San Francisco, California)"@en
+37.74758529663086	-122.4555282592773	:Laguna_Honda_Hospital_and_Rehabilitation_Center 	"Laguna Honda Hospital and Rehabilitation Center"@en
+37.74899291992188	-122.3874359130859	:Marin_Street_Station 	"Marin Street Station"@en
+37.74934005737305	-122.4048767089844	:The_Farm_%28San_Francisco%29 	"The Farm (San Francisco)"@en
+37.74943161010742	-122.3866729736328	:Cyclone_Warehouse 	"Cyclone Warehouse"@en
+37.74959945678711	-122.4832992553711	:Sunset_Reservoir 	"Sunset Reservoir"@en
+37.750732421875	-122.413703918457	:List_of_baseball_parks_in_San_Francisco,_California 	"List of baseball parks in San Francisco, California"@en
+37.75249862670898	-122.4622192382812	:Laguna_Honda_Reservoir 	"Laguna Honda Reservoir"@en
+37.75429153442383	-122.4091339111328	:Million_Fishes 	"Million Fishes"@en
+37.75472259521484	-122.445556640625	:KALW-FM 	"KALW-FM"@en
+37.75522232055664	-122.4528884887695	:KTVU 	"KTVU"@en
+37.75522232055664	-122.4528884887695	:KCNS 	"KCNS"@en
+37.75522232055664	-122.4528884887695	:KCSM-TV 	"KCSM-TV"@en
+37.75522232055664	-122.4528884887695	:KPIX-TV 	"KPIX-TV"@en
+37.75522232055664	-122.4528884887695	:KOFY-TV 	"KOFY-TV"@en
+37.75522232055664	-122.4528884887695	:KGO-TV 	"KGO-TV"@en
+37.75522232055664	-122.4528884887695	:KBCW_%28TV%29 	"KBCW (TV)"@en
+37.75527954101562	-122.4516677856445	:KRON-TV 	"KRON-TV"@en
+37.75527954101562	-122.4516677856445	:KMTP-TV 	"KMTP-TV"@en
+37.75527954101562	-122.4516677856445	:KFSF-DT 	"KFSF-DT"@en
+37.75555419921875	-122.4049987792969	:San_Francisco_General_Hospital 	"San Francisco General Hospital"@en
+37.75579833984375	-122.3881988525391	:23rd_Street_%28SF_Muni_station%29 	"23rd Street (SF Muni station)"@en
+37.75960922241211	-122.4395294189453	:Alfred_E_Clarke_Mansion 	"Alfred E Clarke Mansion"@en
+37.76036071777344	-122.3885498046875	:20th_Street_Station 	"20th Street Station"@en
+37.76060104370117	-122.3910675048828	:Dogpatch,_San_Francisco 	"Dogpatch, San Francisco"@en
+37.76083374023438	-122.4172210693359	:Girls_Club_%28San_Francisco%29 	"Girls Club (San Francisco)"@en
+37.76248931884766	-122.3903961181641	:GeoVector 	"GeoVector"@en
+37.76264190673828	-122.4167098999023	:Arroyo_Dolores 	"Arroyo Dolores"@en
+37.76324081420898	-122.4582672119141	:UCSF_Medical_Center 	"UCSF Medical Center"@en
+37.76332092285156	-122.4585418701172	:University_of_California,_San_Francisco_School_of_Dentistry 	"University of California, San Francisco School of Dentistry"@en
+37.76333236694336	-122.445556640625	:Mount_Olympus,_San_Francisco,_California 	"Mount Olympus, San Francisco, California"@en
+37.76399993896484	-122.3883972167969	:Mariposa_Station 	"Mariposa Station"@en
+37.76433181762695	-122.4221267700195	:The_Deaf_Club 	"The Deaf Club"@en
+37.76438522338867	-122.4381332397461	:Randall_Museum 	"Randall Museum"@en
+37.76485061645508	-122.4497528076172	:Cole_Valley,_San_Francisco 	"Cole Valley, San Francisco"@en
+37.76576995849609	-122.422119140625	:Intersection_for_the_Arts 	"Intersection for the Arts"@en
+37.76578140258789	-122.4184112548828	:Capp_Street_Project 	"Capp Street Project"@en
+37.76583480834961	-122.4569473266602	:Clown_Conservatory 	"Clown Conservatory"@en
+37.76583480834961	-122.4569473266602	:Circus_Center 	"Circus Center"@en
+37.76666641235352	-122.4091644287109	:Seals_Stadium 	"Seals Stadium"@en
+37.76715850830078	-122.4000473022461	:Wattis_Institute_for_Contemporary_Arts 	"Wattis Institute for Contemporary Arts"@en
+37.76745986938477	-122.4539031982422	:Kezar_Pavilion 	"Kezar Pavilion"@en
+37.76754760742188	-122.4515151977539	:Haight_Street_Grounds 	"Haight Street Grounds"@en
+37.76789855957031	-122.4552993774414	:San_Francisco_Police_Department_Park_Station_bombing 	"San Francisco Police Department Park Station bombing"@en
+37.76803970336914	-122.422737121582	:Southern_Exposure_%28art_space%29 	"Southern Exposure (art space)"@en
+37.76924133300781	-122.41552734375	:Rainbow_Grocery_Cooperative 	"Rainbow Grocery Cooperative"@en
+37.76955032348633	-122.4511337280273	:I-Beam_%28nightclub%29 	"I-Beam (nightclub)"@en
+37.76972198486328	-122.4494476318359	:Booksmith 	"Booksmith"@en
+37.77000045776367	-122.4400024414062	:Rancho_San_Miguel_%28Noe%29 	"Rancho San Miguel (Noe)"@en
+37.77111053466797	-122.4127807617188	:Bootie_%28club_night%29 	"Bootie (club night)"@en
+37.77175140380859	-122.4240493774414	:San_Francisco_LGBT_Community_Center 	"San Francisco LGBT Community Center"@en
+37.77177047729492	-122.4271774291992	:Nightingale_House 	"Nightingale House"@en
+37.77365493774414	-122.4214477539062	:Zuni_Cafe 	"Zuni Cafe"@en
+37.77401351928711	-122.4543075561523	:St._Mary%27s_Medical_Center_%28San_Francisco%29 	"St. Mary's Medical Center (San Francisco)"@en
+37.77482604980469	-122.4527282714844	:University_of_San_Francisco_School_of_Law 	"University of San Francisco School of Law"@en
+37.77550888061523	-122.4376678466797	:Harding_Theater 	"Harding Theater"@en
+37.77555465698242	-122.420280456543	:San_Francisco_Conservatory_of_Music 	"San Francisco Conservatory of Music"@en
+37.77590560913086	-122.450798034668	:University_of_San_Francisco_School_of_Nursing 	"University of San Francisco School of Nursing"@en
+37.77598571777344	-122.4070587158203	:San_Francisco_City_Clinic 	"San Francisco City Clinic"@en
+37.77680969238281	-122.417610168457	:Fox_Theatre_%28San_Francisco,_California%29 	"Fox Theatre (San Francisco, California)"@en
+37.77727890014648	-122.4038696289062	:The_EndUp 	"The EndUp"@en
+37.77836990356445	-122.4528427124023	:Lone_Mountain,_San_Francisco,_California 	"Lone Mountain, San Francisco, California"@en
+37.77890396118164	-122.390998840332	:King_Street_Garage 	"King Street Garage"@en
+37.77930068969727	-122.4145965576172	:The_Art_Institute_of_California_%E2%80%93_San_Francisco 	"The Art Institute of California – San Francisco"@en
+37.77929306030273	-122.4192199707031	:Museum_of_the_City_of_San_Francisco 	"Museum of the City of San Francisco"@en
+37.77960968017578	-122.4205474853516	:Museum_of_Performance_&_Design 	"Museum of Performance & Design"@en
+37.7796516418457	-122.4205474853516	:Herbst_Theatre 	"Herbst Theatre"@en
+37.78079986572266	-122.3956985473633	:Wired_%28magazine%29 	"Wired (magazine)"@en
+37.78180694580078	-122.418083190918	:Phillip_Burton_Federal_Building 	"Phillip Burton Federal Building"@en
+37.78250122070312	-122.4107971191406	:Theater_District,_San_Francisco,_California 	"Theater District, San Francisco, California"@en
+37.78271102905273	-122.4156036376953	:Black_Hawk_%28nightclub%29 	"Black Hawk (nightclub)"@en
+37.78305435180664	-122.4233322143555	:Sacred_Heart_Cathedral_Preparatory 	"Sacred Heart Cathedral Preparatory"@en
+37.78316879272461	-122.4653930664062	:Green_Forest_Art_Studio 	"Green Forest Art Studio"@en
+37.78339004516602	-122.4102020263672	:Aranda_Residence 	"Aranda Residence"@en
+37.78409957885742	-122.4331283569336	:The_Fillmore 	"The Fillmore"@en
+37.78409957885742	-122.4331283569336	:Fillmore_West 	"Fillmore West"@en
+37.78500747680664	-122.418815612793	:Great_American_Music_Hall 	"Great American Music Hall"@en
+37.78503799438477	-122.4348907470703	:Winterland_Ballroom 	"Winterland Ballroom"@en
+37.78522491455078	-122.4114532470703	:Glide_Memorial_Church 	"Glide Memorial Church"@en
+37.78544235229492	-122.4004440307617	:W_San_Francisco 	"W San Francisco"@en
+37.78557205200195	-122.4282302856445	:Kinmon_Gakuen 	"Kinmon Gakuen"@en
+37.78593063354492	-122.407958984375	:Bernstein%27s_Fish_Grotto 	"Bernstein's Fish Grotto"@en
+37.78631973266602	-122.4142990112305	:20_GOTO_10 	"20 GOTO 10"@en
+37.78633117675781	-122.4091033935547	:Alcazar_Theatre_%281911%29 	"Alcazar Theatre (1911)"@en
+37.78637313842773	-122.3928451538086	:Maritime_Hall 	"Maritime Hall"@en
+37.78651809692383	-122.4070892333984	:Alcazar_Theatre_%281885%29 	"Alcazar Theatre (1885)"@en
+37.78654098510742	-122.4030914306641	:Westin_San_Francisco_Market_Street 	"Westin San Francisco Market Street"@en
+37.78665924072266	-122.4139862060547	:Alcazar_Theatre_%281976%29 	"Alcazar Theatre (1976)"@en
+37.78666687011719	-122.4591674804688	:Camp_Merritt,_California 	"Camp Merritt, California"@en
+37.78666687011719	-122.4019470214844	:Paramount,_San_Francisco 	"Paramount, San Francisco"@en
+37.78670120239258	-122.4111022949219	:Clift 	"Clift"@en
+37.78680038452148	-122.4365005493164	:St._Dominic_Church_in_San_Francisco 	"St. Dominic Church in San Francisco"@en
+37.78693771362305	-122.4679870605469	:Mountain_Lake_Park 	"Mountain Lake Park"@en
+37.78701019287109	-122.4099960327148	:Pinecrest_Diner 	"Pinecrest Diner"@en
+37.78708648681641	-122.4009399414062	:Cartoon_Art_Museum 	"Cartoon Art Museum"@en
+37.78726959228516	-122.4015274047852	:Palace_Hotel_Residential_Tower 	"Palace Hotel Residential Tower"@en
+37.78749847412109	-122.4097213745117	:Ruby_Skye 	"Ruby Skye"@en
+37.78749847412109	-122.4280548095703	:Bush_Street_Temple 	"Bush Street Temple"@en
+37.7876091003418	-122.4212875366211	:Avalon_Ballroom 	"Avalon Ballroom"@en
+37.78784942626953	-122.4006500244141	:Academy_of_Art_University 	"Academy of Art University"@en
+37.78823089599609	-122.3960571289062	:509_Howard_Street 	"509 Howard Street"@en
+37.78853988647461	-122.3960189819336	:Foundry_Square 	"Foundry Square"@en
+37.78855895996094	-122.4131011962891	:Fleur_de_Lys_%28restaurant%29 	"Fleur de Lys (restaurant)"@en
+37.78867721557617	-122.4237976074219	:Institute_for_Advanced_Study_of_Human_Sexuality 	"Institute for Advanced Study of Human Sexuality"@en
+37.7886962890625	-122.3918609619141	:201_Folsom_Street 	"201 Folsom Street"@en
+37.78870010375977	-122.4002990722656	:KPMG_Building 	"KPMG Building"@en
+37.78900146484375	-122.4160003662109	:Tendernob 	"Tendernob"@en
+37.78923034667969	-122.4169845581055	:Saint_Francis_Memorial_Hospital 	"Saint Francis Memorial Hospital"@en
+37.78924942016602	-122.4008102416992	:595_Market_Street 	"595 Market Street"@en
+37.78945922851562	-122.3951416015625	:181_Fremont_Street 	"181 Fremont Street"@en
+37.78955459594727	-122.4003601074219	:Chevron_Tower 	"Chevron Tower"@en
+37.78968048095703	-122.4131622314453	:The_Boarding_House_%28nightclub%29 	"The Boarding House (nightclub)"@en
+37.78994369506836	-122.3948059082031	:199_Fremont_Street 	"199 Fremont Street"@en
+37.78994369506836	-122.3969192504883	:San_Francisco_Transbay_development 	"San Francisco Transbay development"@en
+37.79000091552734	-122.4007034301758	:Flatiron_Building_%28San_Francisco%29 	"Flatiron Building (San Francisco)"@en
+37.79027938842773	-122.4044418334961	:ZeroDivide 	"ZeroDivide"@en
+37.79029846191406	-122.4019012451172	:100_Montgomery_Street 	"100 Montgomery Street"@en
+37.7904167175293	-122.4012756347656	:One_Sansome_Street 	"One Sansome Street"@en
+37.79048538208008	-122.4852523803711	:Lobos_Creek 	"Lobos Creek"@en
+37.79053115844727	-122.3991622924805	:Central_Plaza,_San_Francisco 	"Central Plaza, San Francisco"@en
+37.79076766967773	-122.4020309448242	:180_Montgomery_Street 	"180 Montgomery Street"@en
+37.79088973999023	-122.3966903686523	:350_Mission_Street 	"350 Mission Street"@en
+37.79099273681641	-122.4454803466797	:San_Francisco_University_High_School 	"San Francisco University High School"@en
+37.79119873046875	-122.397102355957	:45_Fremont_Center 	"45 Fremont Center"@en
+37.79119873046875	-122.3964996337891	:Bechtel_Building 	"Bechtel Building"@en
+37.79122161865234	-122.3950424194336	:Providian_Financial_Building 	"Providian Financial Building"@en
+37.79130172729492	-122.4012985229492	:Stevenson_Place 	"Stevenson Place"@en
+37.79130172729492	-122.4012985229492	:505_Montgomery_Street 	"505 Montgomery Street"@en
+37.79132080078125	-122.4130630493164	:Masonic_Center,_San_Francisco 	"Masonic Center, San Francisco"@en
+37.79138946533203	-122.4063873291016	:Antioch_University_%28San_Francisco%29 	"Antioch University (San Francisco)"@en
+37.79150009155273	-122.4074020385742	:Stockton_Street_Tunnel 	"Stockton Street Tunnel"@en
+37.79150009155273	-122.4095001220703	:Stanford_Court_Hotel 	"Stanford Court Hotel"@en
+37.79156494140625	-122.4275512695312	:Lafayette_Park,_San_Francisco,_California 	"Lafayette Park, San Francisco, California"@en
+37.79159927368164	-122.3957977294922	:Pacific_Gas_&_Electric_Building 	"Pacific Gas & Electric Building"@en
+37.79185104370117	-122.4401168823242	:Town_School_for_Boys 	"Town School for Boys"@en
+37.79190063476562	-122.3945007324219	:123_Mission_Street 	"123 Mission Street"@en
+37.79194259643555	-122.3974990844727	:333_Market_Street 	"333 Market Street"@en
+37.79211044311523	-122.4029998779297	:Commercial_Union_Assurance_Building 	"Commercial Union Assurance Building"@en
+37.79214096069336	-122.4100036621094	:Tonga_Room 	"Tonga Room"@en
+37.79246520996094	-122.3920440673828	:Youth_Chance_High_School 	"Youth Chance High School"@en
+37.79249954223633	-122.4144439697266	:KPOO 	"KPOO"@en
+37.79261016845703	-122.3989715576172	:100_Pine_Center 	"100 Pine Center"@en
+37.79269409179688	-122.4695739746094	:MacArthur_Tunnel 	"MacArthur Tunnel"@en
+37.79279708862305	-122.4013519287109	:425_California_Street 	"425 California Street"@en
+37.79305648803711	-122.3963851928711	:Yerba_Buena,_California 	"Yerba Buena, California"@en
+37.79325103759766	-122.3972091674805	:One_California 	"One California"@en
+37.79339981079102	-122.399299621582	:Tadich_Grill 	"Tadich Grill"@en
+37.79359817504883	-122.3984985351562	:150_California_Street 	"150 California Street"@en
+37.793701171875	-122.3926391601562	:Mission_Street 	"Mission Street"@en
+37.79386138916016	-122.4004440307617	:Embarcadero_West 	"Embarcadero West"@en
+37.79390716552734	-122.4363250732422	:Mrs._Doubtfire 	"Mrs. Doubtfire"@en
+37.79441833496094	-122.3996353149414	:One_Embarcadero_Center 	"One Embarcadero Center"@en
+37.79460144042969	-122.4005966186523	:Le_M%C3%A9ridien_San_Francisco 	"Le Méridien San Francisco"@en
+37.79472351074219	-122.4338912963867	:Convent_of_the_Sacred_Heart_High_School_%28California%29 	"Convent of the Sacred Heart High School (California)"@en
+37.79504776000977	-122.4031219482422	:Montgomery_Block 	"Montgomery Block"@en
+37.79510879516602	-122.4046325683594	:Hilton_San_Francisco_Financial_District 	"Hilton San Francisco Financial District"@en
+37.79513931274414	-122.407096862793	:Golden_Dragon_Restaurant_%28San_Francisco%29 	"Golden Dragon Restaurant (San Francisco)"@en
+37.79513931274414	-122.3973617553711	:Three_Embarcadero_Center 	"Three Embarcadero Center"@en
+37.79555511474609	-122.399169921875	:One_Maritime_Plaza 	"One Maritime Plaza"@en
+37.79563140869141	-122.3978271484375	:Hubba_Hideout 	"Hubba Hideout"@en
+37.79581832885742	-122.4032592773438	:Black_Cat_Bar 	"Black Cat Bar"@en
+37.79624176025391	-122.4051361083984	:Hungry_i 	"Hungry i"@en
+37.79769897460938	-122.4817962646484	:Coyote_Gulch_%28California%29 	"Coyote Gulch (California)"@en
+37.79811859130859	-122.3971405029297	:The_Montgomery 	"The Montgomery"@en
+37.7983283996582	-122.4219589233398	:Alhambra_Theatre_%28San_Francisco%29 	"Alhambra Theatre (San Francisco)"@en
+37.79840087890625	-122.4001007080078	:Saybrook_Graduate_School_and_Research_Center 	"Saybrook Graduate School and Research Center"@en
+37.7984733581543	-122.4151916503906	:The_Summit,_San_Francisco 	"The Summit, San Francisco"@en
+37.79869842529297	-122.4356994628906	:The_Matrix_%28club%29 	"The Matrix (club)"@en
+37.79872131347656	-122.4072723388672	:Caffe_Trieste 	"Caffe Trieste"@en
+37.79944610595703	-122.4491653442383	:Letterman_Army_Hospital 	"Letterman Army Hospital"@en
+37.80044937133789	-122.4559707641602	:The_Bay_School_of_San_Francisco 	"The Bay School of San Francisco"@en
+37.80044937133789	-122.4109573364258	:Washington_Square_Bar_and_Grill 	"Washington Square Bar and Grill"@en
+37.80166625976562	-122.4352798461914	:Galileo_Academy_of_Science_and_Technology 	"Galileo Academy of Science and Technology"@en
+37.80194473266602	-122.4327774047852	:Moscone_Recreation_Center 	"Moscone Recreation Center"@en
+37.8025016784668	-122.4013900756836	:Levi_Park 	"Levi Park"@en
+37.80472564697266	-122.4125213623047	:North_Beach_Malt_House 	"North Beach Malt House"@en
+37.80644989013672	-122.4321212768555	:Greens_Restaurant 	"Greens Restaurant"@en
+37.80667495727539	-122.4199905395508	:American_Academy_of_Ophthalmology 	"American Academy of Ophthalmology"@en
+37.80666732788086	-122.4305572509766	:Blue_Bear_School_of_Music 	"Blue Bear School of Music"@en
+37.80694961547852	-122.4313659667969	:Museo_ItaloAmericano 	"Museo ItaloAmericano"@en
+37.80827331542969	-122.4147872924805	:Wax_Museum_at_Fishermans_Wharf 	"Wax Museum at Fishermans Wharf"@en
+37.80831527709961	-122.4155044555664	:Jefferson_and_Taylor_Station 	"Jefferson and Taylor Station"@en
+37.80834197998047	-122.410285949707	:Jefferson_and_The_Embarcadero_Station 	"Jefferson and The Embarcadero Station"@en
+37.80858993530273	-122.4133529663086	:Jefferson_and_Powell_Station 	"Jefferson and Powell Station"@en
+37.80867004394531	-122.4093627929688	:Aquarium_of_the_Bay 	"Aquarium of the Bay"@en
+37.80916595458984	-122.4113922119141	:Pier_41 	"Pier 41"@en
+37.81692504882812	-122.3694839477539	:Prototype_This%21 	"Prototype This!"@en
+37.82595443725586	-122.3751220703125	:Treasure_Island_development 	"Treasure Island development"@en

@@ -1,0 +1,99 @@
+<?php
+/**
+* Geohunt, version 1
+* stephen@thjnk.com
+*/
+?>
+<html>
+<head>
+	<script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+	<link href="grid.css" type="text/css" rel="stylesheet" media="screen"/>
+	<style>
+		a {
+			text-decoration: none;
+			margin: 0;
+			padding: 0;
+		}
+		a:hover {
+			text-decoration: underline;
+			background: #fbdd95;
+		}
+		div {
+			margin: 0;
+			padding: 0;
+		}
+	</style>
+	
+	<script>
+		function init(){
+			map = new OpenLayers.Map("mapdiv", { 
+				controls: [
+					new OpenLayers.Control.Navigation(),
+					new OpenLayers.Control.PanZoomBar(),
+					new OpenLayers.Control.LayerSwitcher({'ascending':false}),
+					new OpenLayers.Control.ScaleLine(),
+					new OpenLayers.Control.Permalink('perm','./geohunt.php'),
+					new OpenLayers.Control.KeyboardDefaults()
+				],});
+	    		map.addLayer(new OpenLayers.Layer.OSM());
+			var pois = new OpenLayers.Layer.Text( "My Points",
+				{ 
+				location:"./textfile.txt",
+				projection: map.displayProjection
+				});
+			map.addLayer(pois); 
+			var lonLat = new OpenLayers.LonLat( -122.4192, 37.7793 )
+				.transform(
+				new OpenLayers.Projection("EPSG:4326"),
+				map.getProjectionObject()
+				);	
+			var zoom=15;
+			map.setCenter (lonLat, zoom);  
+		}
+ 	</script>
+</head>
+<body onload="init()">
+	<div class="row">
+		<div class="column grid_10"><h1> Wikipedia photo hunt generator</h1></div>
+	</div>
+	<div class="row">
+		<div class="column grid_1">&nbsp;</div>
+		<div id="mapdiv" class="column grid_8" style="height:620px;"></div>
+		<div class="column grid_1">&nbsp;</div>
+	</div>
+	<div class="row">
+		<div class="column grid_10" style="text-align:center;">&nbsp;</div>	
+	</div>
+	<div class="row">
+		<div class="column grid_10" style="display:block"><a style="display:block; text-align:center; font-size:2em;" href="" id="perm">Find articles in the map</a></div>
+	</div>
+	<br/>
+	<br/>
+	<div class="row">
+		<div class="column grid_10"><h2>Manually specify a search area</h2></div>
+	</div>
+	<form name="manual" method="get" action="geohunt.php">
+	<div class="row">
+		<div class="column grid_2"><label for="lat">Latitude</label><input type="text" name="lat" value="4548295.0473"></div>
+		<div class="column grid_2"><label for="lon">Longitude</label><input type="text" name="lon" value="-13627643.00542"></div>
+		<div class="column grid_3"><label for="zoom">Zoom level</label> (level 14 recomended for cities)<select name="zoom"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option selected value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option></select></div>
+		<div class="column grid_3"><label for="limit">Search limit</label> (maximum 100)<input type="text" name="limit" value="10"></div>
+	</div>
+	<div class="row">
+		<div class="column grid_10" style="text-align:center;">&nbsp;</div>            
+	</div>
+	<div class="row">
+		<div class="column grid_10" style="display:block"><a style="display:block; text-align:center; font-size:2em;" href="javascript:document.manual.submit()">Find articles near the lat/long point</a></div>
+	</div>
+	<div class="row">
+		<div class="column grid_10">
+		<h2>About</h2>
+		<ul>
+			<li>Maps provided by <a href="http://wiki.openstreetmap.org/wiki/Main_Page">Open Street Maps</a> using <a href="http://www.openlayers.org/">OpenLayers</a></li> 
+			<li>Wikipedia articles parsed and provided by <a href="http://dbpedia.org/About">DBpedia</a></li>
+			<li>Generator written by <a href="http://thjnk.com">Stephen LaPorte</a>. This page and its source code is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+		</ul>
+	</div>
+	</form>
+</body>
+</html>
