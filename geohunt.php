@@ -1,8 +1,4 @@
 <?php
-/**
-* Geohunt, version 1
-* stephen@thjnk.com
-*/
 	function SphericalMercatorToWGS84($lat, $lon) {
 		$latWGS = $lat / ( ( 2 * M_PI * 6378137 / 2.0 ) / 180.0 );
 		$latWGS = 180.0 / M_PI * ( 2 * atan( exp( $latWGS * M_PI / 180.0 ) ) - M_PI / 2 );
@@ -43,7 +39,7 @@
 			OPTIONAL { ?subject foaf:depiction ?depic. FILTER(?subject2 = ?subject) }
 			OPTIONAL { ?subject dbpprop:imageName ?imageNm. FILTER(?subject2 = ?subject) }
 			FILTER(!bound(?subject2)).
-			} LIMIT 100";
+			} LIMIT 30";
 			$searchUrl = 'http://dbpedia.org/sparql?'
 			.'query='.urlencode($query)
 			.'&format='.$format;
@@ -173,7 +169,7 @@
 	<ul>    
 		<li>Maps provided by <a href="http://wiki.openstreetmap.org/wiki/Main_Page">Open Street Maps</a> using <a href="http://www.openlayers.org/">OpenLayers</a></li>                 
 		<li>Wikipedia articles parsed and provided by <a href="http://dbpedia.org/About">DBpedia</a></li>
-		<li>Generator written by <a href="http://thjnk.com">Stephen LaPorte</a>. This page and its source code is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+	<li>Photo hunt generator copyright 2011  <a href="http://thjnk.com">Stephen LaPorte</a>, licensed under the <a rel="license" href="http:/www.gnu.org/licenses/gpl-2.0.html">GPLv2</a>.
 	</ul>
 </div>
 </body>
